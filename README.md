@@ -28,7 +28,7 @@ Whether you're learning JavaScript or brushing up your skills, this series is pe
 
 | Day | Project Name                 | Source Code |
 |-----|------------------------------|-------------|
-| 1   | [Weather App](./Weather%20App) | [Code](./Weather-App) |
+| 1   | [Weather App](./Weather%20App) | [Code](./Weather%20App) |
 
 
 > 🔄 *This list is being updated daily — stay tuned!*
