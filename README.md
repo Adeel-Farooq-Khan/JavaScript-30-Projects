@@ -51,5 +51,5 @@ By the end of this series, you’ll be able to:
 
 ### 1. Clone the repo
 ```bash
-git clone [https://github.com/Adeel-Farooq-Khan/JavaScript-30-Projects.git]
+git clone https://github.com/Adeel-Farooq-Khan/JavaScript-30-Projects.git
 cd JavaScript-30-Projects
