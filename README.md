@@ -31,6 +31,7 @@ Whether you're learning JavaScript or brushing up your skills, this series is pe
 | 1   | [Weather App](./Weather%20App) | [Code](./Weather%20App) |
 | 2   | [Todo List](./To-do%20List) | [Code](./To-do%20List) |
 | 3   | [Quiz App](./Quiz%20App) | [Code](./Quiz%20App) |
+| 4   | [Random Password Generator](./Password%20Generator) | [Code](./Password%20Generator) |
 
 
 > 🔄 *This list is being updated daily — stay tuned!*
