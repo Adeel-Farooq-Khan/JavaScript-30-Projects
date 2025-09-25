@@ -32,6 +32,7 @@ Whether you're learning JavaScript or brushing up your skills, this series is pe
 | 2   | [Todo List](./To-do%20List) | [Code](./To-do%20List) |
 | 3   | [Quiz App](./Quiz%20App) | [Code](./Quiz%20App) |
 | 4   | [Random Password Generator](./Password%20Generator) | [Code](./Password%20Generator) |
+| 5   | [Notes App](./Notes%20App) | [Code](./Notes%20App) |
 
 
 > 🔄 *This list is being updated daily — stay tuned!*
